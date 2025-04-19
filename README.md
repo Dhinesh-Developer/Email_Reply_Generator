@@ -48,10 +48,19 @@ An AI-powered Chrome Extension that helps users generate smart email replies dir
 5. **A suggested reply** is returned and shown to the user for review/edit.  
 
 ---
+![image](https://github.com/user-attachments/assets/48009baf-645b-4c07-b88d-725ace9f44b5)
+![image](https://github.com/user-attachments/assets/4a8a7ddd-2ae7-4758-9522-ceaf51aadad9)
 
-## 📸 Demo
 
-*Coming soon: Screenshots or demo video to showcase the extension in action.*
+---
+🧠 Future Improvements
+Integration with OpenAI or other LLM APIs
+
+User authentication and preferences
+
+Context-aware reply suggestions
+
+Support for multiple languages
 
 ---
 
@@ -75,13 +84,6 @@ Click Load unpacked and select the extension/ folder
 
 You’re good to go!
 
-🧠 Future Improvements
-Integration with OpenAI or other LLM APIs
 
-User authentication and preferences
-
-Context-aware reply suggestions
-
-Support for multiple languages
 
 
